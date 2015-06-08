@@ -1,2 +1,1 @@
-# NTFS_Recovery
-Utility for files recovery in NTFS file system.
+Тема №47 Бирюк Сергей Викторович 250504 (Утилита восстановления удалённых файлов в файловой системе NTFS с использованием библиотеки MFC)
